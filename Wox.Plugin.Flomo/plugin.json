@@ -1,8 +1,8 @@
 {
   "ID": "DD0C6A654CBB4F34AAAA60DDA170AAEA",
   "ActionKeyword": "f",
-  "Name": "Flomo",
-  "Description": "发送Memo到Flomo",
+  "Name": "Wox2Flomo",
+  "Description": "记录到flomo",
   "Author": "simonli<simonli@188.com>",
   "Version": "1.0.0",
   "Language": "csharp",

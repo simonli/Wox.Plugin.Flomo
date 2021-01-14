@@ -26,7 +26,8 @@ namespace Wox.Plugin.Flomo
             {
                 results.Add(new Result
                 {
-                    Title = "请输入Memo",                    
+                    Title = "记录到flomo：”在这里可以记录想法“",
+                    SubTitle = "现在的想法是...",
                     IcoPath = ico
                 });
                 return results;
